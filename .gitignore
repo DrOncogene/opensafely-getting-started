@@ -19,3 +19,5 @@ venv/
 .Rhistory
 .Rproj.user/
 .devcontainer/ehrql-main/
+.vscode/
+dummy_tables/
