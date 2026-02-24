@@ -1,5 +1,4 @@
 # Python-generated files
-__pycache__/
 *.py[oc]
 build/
 dist/
@@ -8,3 +7,15 @@ wheels/
 
 # Virtual environments
 .venv
+*~
+model.log
+*/input.csv
+__pycache__
+.python-version
+/output/*
+metadata/*
+venv/
+.DS_Store
+.Rhistory
+.Rproj.user/
+.devcontainer/ehrql-main/
